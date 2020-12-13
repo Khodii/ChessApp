@@ -1,3 +1,3 @@
-# React chess
+# Einzelspieler Schach App via React
 
-Starter code for the tutorial of building a chess application with react
+Erstes Projekt mit React Native & JavaScript
