@@ -1,4 +1,4 @@
 # Einzelspieler Schach App via React
 
-Erstes Projekt mit React Native,JavaScript & CSS
+Erstes Projekt mit React, JavaScript & CSS
  
